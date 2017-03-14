@@ -1,0 +1,1 @@
+Drive ocean optics USB2000+ spectrometer (and possibly others) using ipython kernel in jupyter.  Needs the seabreeze driver (fork at [[https://github.com/singletS/python-seabreeze]])
